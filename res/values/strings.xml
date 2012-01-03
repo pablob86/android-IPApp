@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="iplabel">IP Address (Ex: 192.168.10.5)</string>
+    <string name="app_name">IP App</string>
+    <string name="prefixlabel">Mask or prefix (255.255.0.0 or 16)</string>
+    <string name="botoncalcular">Obtain information</string>
+</resources>
